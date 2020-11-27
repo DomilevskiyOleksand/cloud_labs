@@ -1,0 +1,14 @@
+p, a, li {
+    font-size: 14px;
+}
+
+.linkComplete {
+    font-size: 12px;
+    color: green;
+}
+
+.linkDelete {
+    font-size: 12px;
+    color: red;
+}
+
